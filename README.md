@@ -1,4 +1,5 @@
 # javascript-challenge# JavaScript  - JavaScript and DOM Manipulation
+![download](https://user-images.githubusercontent.com/33403205/147866136-40be6fbc-e256-4b13-92bb-04c96806be3a.jpg)
 
 ## Background
 
